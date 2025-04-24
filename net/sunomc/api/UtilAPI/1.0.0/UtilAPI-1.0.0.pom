@@ -38,6 +38,10 @@
   </build>
   <repositories>
     <repository>
+      <id>ley.org</id>
+      <url>https://leycm.github.io/repository/</url>
+    </repository>
+    <repository>
       <id>papermc-repo</id>
       <url>https://repo.papermc.io/repository/maven-public/</url>
     </repository>
